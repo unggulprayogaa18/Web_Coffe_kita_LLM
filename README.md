@@ -7,19 +7,19 @@
 ## App Screenshots
 
 ### Login Page
-![Login Page](./cofe_kita_png/login.png)
+![Login Page](./cofe_kita_png/login.PNG)
 
 ### Dashboard Page
-![Dashboard Page](./cofe_kita_png/dashboard.png)
+![Dashboard Page](./cofe_kita_png/dashboard.PNG)
 
 ### Database Page
-![Database Page](./cofe_kita_png/database.png)
+![Database Page](./cofe_kita_png/database.PNG)
 
 ### Campaign Page
-![Campaign Page](./cofe_kita_png/campaings.png)
+![Campaign Page](./cofe_kita_png/campaings.PNG)
 
 ### Chat AI Page
-![Chat AI Page](./cofe_kita_png/ai.png)
+![Chat AI Page](./cofe_kita_png/ai.PNG)
 
 ---
 
