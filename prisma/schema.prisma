@@ -1,0 +1,20 @@
+// prisma/schema.prisma
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"] // Wajib ditambahkan untuk Prisma 7 & Neon
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Customer {
+  id            String   @id @default(cuid())
+  name          String
+  contact       String?  // Opsional (Email/No HP)
+  favoriteDrink String?  // Free text
+  interests     String[] // Disimpan sebagai array string (misal: ["sweet drinks", "oat milk"])
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
