@@ -3,6 +3,13 @@
 **Live Demo:** [https://web-coffe-kita-llm.vercel.app/](https://web-coffe-kita-llm.vercel.app/)
 
 ---
+## Tech Stack
+
+* **Framework:** [Next.js](https://nextjs.org)
+* **Database:** [Neon](https://neon.tech/) (Serverless Postgres)
+* **ORM:** [Prisma](https://www.prisma.io/)
+* **AI Model:** [Groq](https://groq.com/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 
 ## App Screenshots
 
